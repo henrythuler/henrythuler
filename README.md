@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Henry Thuler!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thulers&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=henrythuler&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Studying Software Analysis and Developing at UNICID
 
@@ -17,7 +17,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=thulers&show_icons=true&theme=vision-friendly-dark" alt="thulers's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulers&layout=compact&theme=vision-friendly-dark" alt="thulers's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=henrythuler&show_icons=true&theme=vision-friendly-dark" alt="henrythuler's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrythuler&layout=compact&theme=vision-friendly-dark" alt="henrythuler's most languages"/>
 </p>
 <br><br>
