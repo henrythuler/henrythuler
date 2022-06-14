@@ -1,14 +1,13 @@
-<h1 align="left">Hi, I'm Henry Thuler</h1>
+<h1 align="left">Hi, I'm Henry Thuler!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thulers&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Studying Software Analysis and Developing at UNICID
 
-- 👨‍💻 I am currently learning to become a Full-Stack Developer
-
+- 👨‍💻 I am currently studying to become a Full-Stack Developer
 
 <br><br>
 
-## 🛠 &nbsp;Learning Techs
+## 🛠 &nbsp;Studying Techs
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
