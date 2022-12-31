@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Henry Thuler!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrythuler&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Studying Software Analysis and Developing at UMC
+- 🔥 Studying Software Analysis and Development at UMC
 
 - 👨‍💻 I am currently studying to become a Full-Stack Developer
 <br><br>
