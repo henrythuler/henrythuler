@@ -19,7 +19,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=henrythuler&show_icons=true&theme=vision-friendly-dark" alt="henrythuler's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrythuler&layout=compact&theme=vision-friendly-dark" alt="henrythuler's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=henrythuler&show_icons=true&theme=vision-friendly-dark&env=PAT_1" alt="henrythuler's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrythuler&layout=compact&theme=vision-friendly-dark&env=PAT_1" alt="henrythuler's most languages"/>
 </p>
 <br><br>
