@@ -3,7 +3,7 @@
 
 - 🔥 Studying System Analysis and Development (IT) at FIAP
 
-- 👨‍💻 I am currently studying to become a Full-Stack Developer
+- 👨‍💻 I am currently studying to become a Back-End Developer
 <br><br>
 ## 🛠 &nbsp;Studying Techs
 
