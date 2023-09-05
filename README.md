@@ -4,7 +4,9 @@
 - 🔥 Studying System Analysis and Development (IT) at FIAP
 
 - 👨‍💻 I am currently studying to become a Back-End Developer
-<br><br>
+
+<br>
+
 ## 🛠 &nbsp;Studying Techs
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -15,7 +17,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<br><br>
+<br>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
