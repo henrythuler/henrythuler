@@ -3,8 +3,8 @@
 </p>
 
 <ul>
-  <li>🔥 Studying System Analysis and Development (IT) on FIAP</li>
-  <li>👨‍💻 Full-Stack Developer Trainee on FCamara</li>
+  <li>🔥 Studying System Analysis and Development (IT) at FIAP</li>
+  <li>👨‍💻 Full-Stack Developer Trainee at FCamara allocated to BTG Pactual</li>
 </ul>
 
 <br>
@@ -17,7 +17,6 @@
 ![Spring](https://img.shields.io/badge/-Spring_Framework-05122A?style=social&logoSize=amd&logo=spring)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=social&logoSize=amd&logo=javascript&logoColor=yellow)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=social&logoSize=amd&logo=vue.js&logoColor=green)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=social&logoSize=amd&logo=angular&logoColor=red)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=social&logoSize=amd&logo=git)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=social&logoSize=amd&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=social&logoSize=amd&logo=postgresql)&nbsp;
