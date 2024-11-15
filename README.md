@@ -4,7 +4,8 @@
 
 <ul>
   <li>🔥 Studying System Analysis and Development (IT) at FIAP</li>
-  <li>👨‍💻 Full-Stack Developer Trainee at FCamara allocated to BTG Pactual</li>
+  <li>👨‍💻 Back-End Developer Trainee at BTG Pactual</li>
+  <li>🌐 Blockchain and Web3 enthusiast</li>
 </ul>
 
 <br>
