@@ -4,7 +4,7 @@
 
 <ul>
   <li>🔥 Studying System Analysis and Development (IT) at FIAP</li>
-  <li>👨‍💻 Back-End Developer Trainee at BTG Pactual</li>
+  <li>👨‍💻 Junior Software Engineer at Netcracker</li>
   <li>🌐 Blockchain and Web3 enthusiast</li>
 </ul>
 
