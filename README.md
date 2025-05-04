@@ -22,7 +22,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=social&logoSize=amd&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=social&logoSize=amd&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=social&logoSize=amd&logo=mysql)&nbsp;
-![Oracle](https://img.shields.io/badge/-OracleDB-05122A?style=social&logoSize=amd&logo=oracle)&nbsp;
+![Oracle](https://img.shields.io/badge/-OracleDB-05122A?style=social&logoSize=amd&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHBhdGggZD0iTTAgMGg2NHY2NEgweiIgZmlsbD0iI2UzMDYxMyIvPjxwYXRoIGQ9Ik0yMC4yIDUyLjJDOC45MyA1Mi4yIDAgNDMuMDU2IDAgMzJjMC0xMS4yNyA5LjE0My0yMC4yIDIwLjItMjAuMmgyMy42QzU1LjA3IDExLjggNjQgMjAuOTQ0IDY0IDMyYzAgMTEuMjctOS4xNDMgMjAuMi0yMC4yIDIwLjJ6bTIzLjE3Ni03LjIzYzcuMjMgMCAxMy4xODMtNS45NTMgMTMuMTgzLTEzLjE4M3MtNS45NTMtMTMuMTgzLTEzLjE4My0xMy4xODNIMjAuODM3Yy03LjIzIDAtMTMuMTgzIDUuOTUzLTEzLjE4MyAxMy4xODNTMTMuNjA4IDQ0Ljk3IDIwLjgzNyA0NC45N3oiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)&nbsp;
 
 <br>
 
