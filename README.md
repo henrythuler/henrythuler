@@ -4,7 +4,7 @@
 
 <ul>
   <li>🔥 Graduated in System Analysis and Development (IT) at FIAP</li>
-  <li>👨‍💻 Software Engineer at Bureau Works</li>
+  <li>👨‍💻 Software Engineer</li>
   <li>🌐 Blockchain and Web3 enthusiast</li>
 </ul>
 
